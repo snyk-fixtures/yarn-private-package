@@ -1,6 +1,7 @@
 {
   "name": "private-package",
   "dependencies": {
-    "a-private-package": "1.0.0"
+    "a-private-package": "1.0.0",
+    "adm-zip": "0.4.7"
   }
 }
