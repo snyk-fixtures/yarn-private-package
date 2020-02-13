@@ -1,0 +1,6 @@
+{
+  "name": "private-package",
+  "dependencies": {
+    "a-private-package": "1.0.0"
+  }
+}
